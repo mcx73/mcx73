@@ -22,7 +22,7 @@
     <postgresql.version>42.2.12</postgresql.version>
     <commons-dbcp.version>1.4</commons-dbcp.version>
     <jstl.version>1.2</jstl.version>
-    <junit.version>4.13</junit.version>
+    <junit.version>4.13.1</junit.version>
     <logback.version>1.2.3</logback.version>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
